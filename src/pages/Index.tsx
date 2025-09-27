@@ -1,7 +1,7 @@
-import KeyGenerationForm from "@/components/KeyGenerationForm";
+import MobileKeyGenerator from "@/components/MobileKeyGenerator";
 
 const Index = () => {
-  return <KeyGenerationForm />;
+  return <MobileKeyGenerator />;
 };
 
 export default Index;
